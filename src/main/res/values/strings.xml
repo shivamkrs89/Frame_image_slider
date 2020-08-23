@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">frame</string>
+    <string name="pre"> PREVIOUS </string>
+    <string name="nex"> NEXT </string>
+    <string name="Your_Picture">YOUR PICTURE</string>
+    <string name="previmg">pi</string>
+    <string name="nextimg">ni</string>
+</resources>
